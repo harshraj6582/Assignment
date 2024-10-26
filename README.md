@@ -24,7 +24,7 @@ This project is an email automation tool that parses and checks emails from Goog
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/eachinbox-assignment.git
+git clone https://github.com/harshraj6582/Assignment.git
 ```
 
 2. Navigate to the project directory:
