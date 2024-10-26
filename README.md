@@ -1,7 +1,6 @@
-Here's an updated version of the `README.md` file that includes the technology stack and Gmail details:
 
 ```md
-# EachInbox-Assignment
+# ReachInbox-Assignment
 
 This project is an email automation tool that parses and checks emails from Google and Outlook email IDs, responds to emails based on the context using AI, and manages tasks with BullMQ.
 
@@ -264,8 +263,4 @@ For any issues or questions, feel free to contact me via email at [harshraj21143
 **Note:** This project uses OpenAI for AI-based email responses, BullMQ for managing background tasks, and OAuth2 for authentication with both Google and Outlook. Make sure to configure your API keys and credentials properly in the `.env` file.
 ```
 
-### Updates Made:
-1. **Technology Stack** section added to explain the tech used in the project.
-2. **Gmail Endpoints** section added for reading and sending emails via Gmail.
-3. Instructions on configuring `.env` variables updated with Gmail credentials.
-4. Contact email added consistently as requested.
+
